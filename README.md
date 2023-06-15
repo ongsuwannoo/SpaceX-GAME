@@ -9,7 +9,7 @@
 - คลิกซ้ายเพื่อหมุนไปทางซ้าย (เนื่องจากคนขับยานถนัดซ้าย ดังนั้นยานจะหมุนไปเเค่ทางซ้ายเท่านั้น)<br>
 - การยิงปืนนั้น ไม่ต้องกดปุ่มใด  เพราะยานมีระบบยิงแบบ Full-auto<br>
 <h3>Game url</h3>
-<pre><a href=" spacex-game.nocgy.com"> spacex-game.nocgy.com</a></pre>
+<pre><a href="spacex-game.nocgy.com">spacex-game.nocgy.com</a></pre>
 <h3>Presentation Video</h3>
 <pre>Space X video<br><a href="https://www.youtube.com/watch?v=YVX1MwOJHhk&t=50s">https://www.youtube.com/watch?v=YVX1MwOJHhk&t=50s</a><br>Snake3019 & ParangPrachaIT & Type Warrior | Game Cast<br><a href="https://www.youtube.com/watch?v=I1o8tRFYpDs">https://www.youtube.com/watch?v=I1o8tRFYpDs</a></pre>
 -------------------------------------------------------------------------------------------------------------------------------------<br>
